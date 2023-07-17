@@ -1,0 +1,40 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(avenue1280.jpg);
+    height: 512px;
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(beach1280.jpg);
+    height: 512px;   
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(nature1280.jpg);
+    height: 512px;
+}
+
+.float-end {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+/*
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+}
+*/
